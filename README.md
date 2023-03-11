@@ -1,1 +1,5 @@
-## Jim's Repository for documentation, issue tracking, project lists, etc.
+## Jim's Repository for 
+* [Documentation (wiki)](https://github.com/nidak21/jakCentral/wiki)
+* [Issue tracking](https://github.com/nidak21/jakCentral/issues)
+* project lists, 
+* etc.
